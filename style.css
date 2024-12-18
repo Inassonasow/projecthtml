@@ -1,0 +1,7 @@
+.mydiv{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -60px;
+    right: 250px;
+}
